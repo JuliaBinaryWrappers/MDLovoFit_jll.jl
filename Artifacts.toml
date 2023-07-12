@@ -1,459 +1,459 @@
 [[MDLovoFit]]
 arch = "aarch64"
-git-tree-sha1 = "66f4deb44b8380af9b1d2f72d8555e80fa286f80"
+git-tree-sha1 = "c1813e65831378dce08d10d8b63f456886a2d8c1"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[MDLovoFit.download]]
-    sha256 = "5270d620f3ce3eac8d43a1064975926f25679296688cdfe6725aaa7a1dd15e76"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "4e0d50adf5119b3aec5259772d2838202dbc794c6d98f60ebe0f10cb69ba6c58"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[MDLovoFit]]
 arch = "aarch64"
-git-tree-sha1 = "fd2441992f455a7bbf9d38c20225d587238f7700"
+git-tree-sha1 = "ee4c212e7241c2550ec6e7a91a7a0b411c18f47c"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "8e1c14225a05060f4f67cc67a08036c83da7121f2e13cc42e074fb4a308c96bf"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.aarch64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "e9732829f680675f064140f2011b1786d6a956284de0b92aa9d141bbfca8d3fe"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[MDLovoFit]]
 arch = "aarch64"
-git-tree-sha1 = "f1b9effe92628caa323ddcd444ad644146cf200b"
+git-tree-sha1 = "cee4cdb8bef3639fc015eae4c73cd158ee0e1b48"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "997f172d0223ef036185ea7ea889676970f6b9531ce35af54764f4485664e66b"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "fb6291360b09edeb300bad9edfc65b7da9644891b141fa77188765e30b598496"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[MDLovoFit]]
 arch = "aarch64"
-git-tree-sha1 = "8de33f506d995ec09c0b01cf3be3e5c1b7852881"
+git-tree-sha1 = "a6d86745e26355ffce5e63421fef2ecde6714844"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "bee0363f659b490cd50e8a5ee4b1151b74a8ab9ddbcb49876ba4de097d4c2156"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "9a1b3e5de71c318a5731ee8d4e858d8f819c7c88e7572c73b57ba62a93617052"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[MDLovoFit]]
 arch = "aarch64"
-git-tree-sha1 = "a7fa1c586d00c7cb9ecc6a2a408b9b21d1b4ecf2"
+git-tree-sha1 = "7adc5fd39d993d96d7fb544b329b57682c247f0d"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "027558860275da5818bab645ae016c453057b7b24a2488d237523c3b2bb039d3"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.aarch64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "d1f8247a2ef537107daecde8bda169d619c7cac7d0d8001021b208d2ba9404bd"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.aarch64-linux-musl-libgfortran3.tar.gz"
 [[MDLovoFit]]
 arch = "aarch64"
-git-tree-sha1 = "7cd7ef3f85cda1e8443072ae09f724023d6a8899"
+git-tree-sha1 = "7ef90a273a31c051412cd452627b2548f6d5a37c"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "51ad6dcd16a139b9bdf22e59d3c4be47f5a9a795614f736d32a1b0b8a6eb62f7"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.aarch64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "0066fa56b8c295f436d8b197ba607e62784d8a00c87a2c2f398160f1568f4b69"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.aarch64-linux-musl-libgfortran4.tar.gz"
 [[MDLovoFit]]
 arch = "aarch64"
-git-tree-sha1 = "5337acb56a51edf9fa307b2fc69cf1ec31d4be7e"
+git-tree-sha1 = "1352fccea6f520a4fe58716de8f988978418bbc9"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "299715699576bb65aa5fb9e3f5d3679c09c4cca98477f519d39d763044b27134"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "794a1990196d00fbef64719d5f335c27e9de9fdb78362a33877eb75c2aee0da7"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.aarch64-linux-musl-libgfortran5.tar.gz"
 [[MDLovoFit]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "27a633b37e9fdf6c517fe66ecae105ceb8d1383e"
+git-tree-sha1 = "ccb1847b48b02bd04369f7bbd66e66f505127eb9"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "475e2989a08ddf872a2a0675a2332b0ac7136333d7f22e01189e38d623680c03"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "311f1e5de58c1f99c8539565b2f0fa78eaccef9e641f8636247019542274bb9e"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
 [[MDLovoFit]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "989359a871ac4790b09249a8bf5623d59c6019fe"
+git-tree-sha1 = "980f3e6f06c1bfaac634167fd55b832c0b9a191f"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "9f9dff199ca94ec9810d43b2101ed3a959275e259204d8055382aa89e5cd6cd5"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "335658794e59bb58078e0f2bc299b03c70522f1a19af7bd07b987954428b37f3"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[MDLovoFit]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "0f7f24deca12f31b0c4a5f9803cc3d130a38db21"
+git-tree-sha1 = "51a9573366282509373f6acd8dd13af6cdd52e84"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "ae881ac3bde6fb7c3e05ae8b250e01f955813a6e2d811345120bcb43f89f15b0"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "d2fa61a19bbe166400c59f241daa93554454043a6a1691e2f379c4c3014a469c"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[MDLovoFit]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "2045b5738186052c4d6b107146a2556f79648788"
+git-tree-sha1 = "1b34c9cc174db15cf885521f11ed130378fb8bb5"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "a80bb28ddc6210f9429c2fc1f3e10c3f3f16aa1f34cc5082e8535657ed3334ac"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "e73c261607b26f8e6fc5f13551f3ae731c73f88a86ab58107f46a304e6b8708c"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
 [[MDLovoFit]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "693945f79fa0492916ad294dc3c56bb43c31de76"
+git-tree-sha1 = "56d4ad099315c1e7aa2b09f8eb6a7aaf32e9bcaa"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "ec4915188b408426b105cf868656d6506437212b178dde8d008883b76be659e5"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "5b59bda67ab0ec8fbda1d2fbfb0708d60e2ce00ed97cd38cfce64097c6e91aa5"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[MDLovoFit]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f024acfd3299416bde12508ee3d68ab3789c6a7f"
+git-tree-sha1 = "1d38077139dda1ace47693b1893212a1f7abce0f"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "5a36224ac4216e5ae0e7fc2e7bdf49264d1611e8c3a8710cc68124fb915da1d9"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "ff78d5126a8b3f9332a2e76f72a3a7fbd2a02b9ae6036c100b52adf8cb0cc21b"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[MDLovoFit]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "a2f8bb181e2acc6fd626bd6acf8123487b15b760"
+git-tree-sha1 = "0e907a6ec0f8c68340d5b87bac1da4c0e5bf0fda"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "37e08d64564403e5f5abaaa8f8ec50200a849352e088e3fc51df35fb1077e856"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "3785777da43f5386025131609d31f77d7c7a9206394740874aa0a1a9323b0465"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[MDLovoFit]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "3607ed40cb4bdd6fdafc3388ee452faf1755a215"
+git-tree-sha1 = "1a644dc4efc46791e6d9c6f6e54ab6450084745c"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "8c9633f5c62d2f059b1f0d5430fb36edbe86f6889f8c55a9374df3c0097054e9"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "86c600cba035a7add728a40ba362fb83c6672fce33b98f26f09920397390c0c0"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[MDLovoFit]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "05c883ea2e1f159a7e825458b625cbaff8885b54"
+git-tree-sha1 = "c15c076f2967d4f4ca9176df018de5cf856f0a8f"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "da6dee5f048afaa9351538700c971fa8cf666814e951db5758e85abc3e1e1810"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "b55ca6156f8de4781f72d1eecb2898e62b531c1702372d5de77000d2a34dda2d"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[MDLovoFit]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "ef6289cd99e1388601ac1bd1f6097ba1418cb985"
+git-tree-sha1 = "c67b034fb82a26d5f84e86b67483b3ebe4496813"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "3746fa153c069115b81aff804faaf999b32cbd2c58329f2bc560d6f3bf463d81"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "55a682671c02f5558e4d67f2cd65e330c3e7b5f720ca980b1c834c7f0cfe426d"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[MDLovoFit]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "c27e0df4cca776e730efe51a75189edf6e963cdc"
+git-tree-sha1 = "fc4df51a25a35dffdb6597a4050ac01a4900fb18"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "09b19c801928ff363d1b765ad27810beecf7c0fcf943b112844c018c45269b00"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "3c9d36b797d99c04c83dc951af7c6c3d5e30f745af788d4d39f3899f4ad274ba"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[MDLovoFit]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "48b09e039da87ef7a88390a7e48a8129cc463006"
+git-tree-sha1 = "b2a95f21457273162e8f03a085f4bd3527726d89"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "6d6d5479448a16c76ff5b99590b938951035c525a3a95efac74371289dad00c5"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "8c8c06f5d49a518811c3824db9e98fd185422234117b4964cbe629aeffd33dfe"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[MDLovoFit]]
 arch = "i686"
-git-tree-sha1 = "ce883d4f4ecf47d8b1f9083b97f7b4f835c8486b"
+git-tree-sha1 = "a0eff60287a96f38b084a2ec2972a389b87bf339"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "0168e358f3d33c162dec80909b6ff5f77848ca7f48158a942a6fd9e79c5b2e21"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.i686-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "efececa78bb4f71951053654bd7a92ea3e8e5056ebc4ccf7b71f02e7c72ce92c"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.i686-linux-gnu-libgfortran3.tar.gz"
 [[MDLovoFit]]
 arch = "i686"
-git-tree-sha1 = "e7ee903e396add74928add1167f90a5cc8f39d62"
+git-tree-sha1 = "3697a17ba60a02b69acd56a04ea7595beda095c4"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "69b78e7a3bfe7b96e1846fbe4b15e04a9da6cef1831d84917ac3f0c965c7236a"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "a995c0649bf6b4de4d9a61ee1bb2a262d635ae708863abb635c4fac4431b6cf2"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.i686-linux-gnu-libgfortran4.tar.gz"
 [[MDLovoFit]]
 arch = "i686"
-git-tree-sha1 = "80ce2e2beb29044e27315c2eeb0964be3013334a"
+git-tree-sha1 = "91b8067700a521c2787611ae08411b21106b8024"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "a1e2c386780d9e5649ef642116515e074611e39ad054cfc477c1af1252647207"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "aa0e0bbebbcf79e82143858a910f0cf02998f28e42d8cda35314c2e50859772d"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.i686-linux-gnu-libgfortran5.tar.gz"
 [[MDLovoFit]]
 arch = "i686"
-git-tree-sha1 = "970b63e20d613d4aeacbb24a003cfee646cef3ac"
+git-tree-sha1 = "36569203db60514875f91dcdf5921301850c8a8f"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "c4ab4750d4b8db087f75c167e4ae499faa8a74dfbae5204aa468f8718ee2566c"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.i686-linux-musl-libgfortran3.tar.gz"
+    sha256 = "2f2d94127423a6cd437f9988726e158a83a54436f5ebb581d0505d2ba6ed7f9b"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.i686-linux-musl-libgfortran3.tar.gz"
 [[MDLovoFit]]
 arch = "i686"
-git-tree-sha1 = "ac2f170a0066627eff95e42e153649e86b97a49d"
+git-tree-sha1 = "9f707981b903921f1aed682b93924fa4825399d4"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "404995aa8588e3b4a0ccfa85628f3d9bfd0f68a8db964ebe5c95f0d92978e805"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.i686-linux-musl-libgfortran4.tar.gz"
+    sha256 = "cb081428cc59d515f09666e7f402b4e6a76a65816e7d7cfb50d47874e95965af"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.i686-linux-musl-libgfortran4.tar.gz"
 [[MDLovoFit]]
 arch = "i686"
-git-tree-sha1 = "692b2029af394b5b661708b2e23ef0e7a79759d5"
+git-tree-sha1 = "25a1789fca0ee1834bb49d20b9f085db4c2b2b9a"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "9b3a58504205451d6e13656a6b1987594e376b05135bbf5041f5e18ed6be494d"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "92f1f88edfc856da79cd1fd2183c48d98b6fdcb875718369e4c5f12ab0f0cb84"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.i686-linux-musl-libgfortran5.tar.gz"
 [[MDLovoFit]]
 arch = "i686"
-git-tree-sha1 = "dcaa815ae878cd98854588746784c49d46bd8377"
+git-tree-sha1 = "2e63ab805d0d3c929df2cec9753b9674a8028186"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[MDLovoFit.download]]
-    sha256 = "ac743a53a1c83b36e8230210321faff3d306691983f62a1301e270107a96d37e"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.i686-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "944741dd9eee4d9be473471b25005f49b0fb7cd1bdb437951ddc5908c918053b"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.i686-w64-mingw32-libgfortran3.tar.gz"
 [[MDLovoFit]]
 arch = "i686"
-git-tree-sha1 = "ae67f99a1b73920adff61d31b04bfdcfb003d5e5"
+git-tree-sha1 = "53c4eccbefe5eaec4a289f597065329bc945fb72"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[MDLovoFit.download]]
-    sha256 = "1af71831ec4dbc5c4909d6d15dc65b36742410b160cc4d9cd0e0adf33abee482"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.i686-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "7a41282d1f52b3aede5c0c84d40a358a8ff02e2a6a9cfa6519f9d24f57f84fef"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.i686-w64-mingw32-libgfortran4.tar.gz"
 [[MDLovoFit]]
 arch = "i686"
-git-tree-sha1 = "cbb733cc06d822cb6e89db5ecb5afe9acfabeba0"
+git-tree-sha1 = "cd4ddfe6007f19d9d2b436d5e7d2df5fdac3abb2"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[MDLovoFit.download]]
-    sha256 = "8cfda0b0fed80689cf2c1876ae47578166cff32af7033275bf41c8be9d76a42c"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "100617ab5385d9f4ced48bfa1232ec4daeede28ff91c35a58389d9fed3542f99"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.i686-w64-mingw32-libgfortran5.tar.gz"
 [[MDLovoFit]]
 arch = "powerpc64le"
-git-tree-sha1 = "01c5ca1e956e5634c369dd8a0775f5f14d5de17e"
+git-tree-sha1 = "4b23f4ec3642adb7354c9a797d95fecb0e74d45b"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "45cab09b8e24e9a5f313b12a9a1ff964c566177d360e4e40859f211e3896fdc6"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "02b7071298f6cd722b1664b7abcc4b80a935da467c718f60822faae48a0861d9"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[MDLovoFit]]
 arch = "powerpc64le"
-git-tree-sha1 = "965f8832bf6e5a77f2f0636fb6514a26245f4134"
+git-tree-sha1 = "7b5e1381679187f8aadf8b5ff023e20d9236172b"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "6273ac9983d1257c30825690289c8410f733c3390d9033a7d07cbe6aee340b66"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "7baef52c6117ecf71c54713cc33c8d0f1ca143275a125bd066392f9082faf730"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[MDLovoFit]]
 arch = "powerpc64le"
-git-tree-sha1 = "d94fb9634a3258467c4b3f7667cf6c415acba82a"
+git-tree-sha1 = "f81a0b42ca43b64ff49bf52b3f28adeac50a35a5"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "1ebd7a602e16c908f9b813584c0351f0a8b62201f9adede4333ebd0ef02f4a2d"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "4016e433146fe157cd6a7e6a71fd6672e9441d76d9d4989fd7b0b7f3a32bfd2f"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[MDLovoFit]]
 arch = "x86_64"
-git-tree-sha1 = "eae88ce93718af47ce7201cff47f297338292eba"
+git-tree-sha1 = "27182307580546e75bb0c4ce2d23c1300719c6e9"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[MDLovoFit.download]]
-    sha256 = "e031f238026bc20436cf5484f2ea64107ebcb7942b64764796353cdd1c0509fe"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.x86_64-apple-darwin-libgfortran3.tar.gz"
+    sha256 = "9a2a0c5cff633801a52094b74f821f17b49b83bf263bfc4ddc5a89ccbb1863b7"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[MDLovoFit]]
 arch = "x86_64"
-git-tree-sha1 = "66ca84994494e5a68093121b5f7cd406204c5e0a"
+git-tree-sha1 = "bb05985cd6965cc587614551c7a39dd699856276"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[MDLovoFit.download]]
-    sha256 = "8c3dca25c279a8d2315f7ff03218b6735e0cae424705401e653a493d0d448c6e"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "98c246dbe1ef7229f57651b8b58c38486ab37b08dac92067c36ca028cba9107f"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[MDLovoFit]]
 arch = "x86_64"
-git-tree-sha1 = "fe922a4e5fc3f84c1844c7d3858f9624f4229dea"
+git-tree-sha1 = "a02c9a1c2a465efb19df730f1d16e95ba6f118a7"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[MDLovoFit.download]]
-    sha256 = "d05ae92c8c0c3ff0f50579408f3d5252db056e5e2e5ee952aa65fa21bf1d8ec4"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "db8ace95708e793d4721905c55c6908a6067ee0a4623cabe261d3c80f2d17656"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[MDLovoFit]]
 arch = "x86_64"
-git-tree-sha1 = "09e8fa410a45acf07f758816c586c9faef8b9ae9"
+git-tree-sha1 = "5214b6ee57beb17ae41d60b63766db420152ffdd"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "eea7039b20583b97e78c6a6c17efaff94c7b498813e3cb3c0059c9c67e3be19d"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "eac5ee61516c33c3ff2fab56be77eaec761bbf893e255965a40ac208a7efbe52"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[MDLovoFit]]
 arch = "x86_64"
-git-tree-sha1 = "f9a6259b441a5bb4a227de6c1ef37d51db60f667"
+git-tree-sha1 = "10af2648ab87e3f51171fd20072873cdf4b6cf2e"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "e8cc884ec9e653eb2039f50c6b405118649ffa8893d0e1f738ee2203e0dc0f8a"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "c32c45174c557f6bc267064fdfe357617df6eebbcb03df157c67943f34e8a306"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[MDLovoFit]]
 arch = "x86_64"
-git-tree-sha1 = "26566b7b08a40d8ad9d6cdfe962d12542f6bc0ba"
+git-tree-sha1 = "a0426bbe45cba70c0b98a5abc8fe8d689bd7a5ff"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "531418cea0ae882a84be0e6ac7a1c224d8cfe1b10ced736bc4ce3cd6dbe42770"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "b9c4f3013bfdb0285c48dca495b734f15a4b469378283463aee32a5d2dfe22da"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[MDLovoFit]]
 arch = "x86_64"
-git-tree-sha1 = "5fd71297449f81f88e1b58c7c982c52440f467dd"
+git-tree-sha1 = "e73f536c41df2a3bd54513a6c3ecabfdb01242d4"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "c153242fa122bba088b7144a9d7b184a6915b39f17bb435e4bc017c3657197cf"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.x86_64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "378bbc85ffdaaf963f9176091053698621e832b32198756b13254a74666e8cd9"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.x86_64-linux-musl-libgfortran3.tar.gz"
 [[MDLovoFit]]
 arch = "x86_64"
-git-tree-sha1 = "dbca68a69934797e98feb338ad241f345f2a5a4e"
+git-tree-sha1 = "50a4581eb8b0162d4895199e07125ab3aca884e0"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "0eb1bea98f96af7e9c6a4f171b18c537a104f71e3e596b96c3990f51a71d924b"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "746146ecc540e702f983d777feb6acb0a645077076cd406c5a2b24ef045c843c"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.x86_64-linux-musl-libgfortran4.tar.gz"
 [[MDLovoFit]]
 arch = "x86_64"
-git-tree-sha1 = "10b53334c8b6a474064df01826bf6b664cc33b43"
+git-tree-sha1 = "2fec27dff0caa1b205bd8717249eb897e45a795c"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MDLovoFit.download]]
-    sha256 = "3d3236087bf2e7f46c11f6700638a596c4821f47362512bf2a456b164faefe72"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "544084655444b9ac70b0f0bf8d75a1cdef81796031d0620b19e11cc23ca93750"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.x86_64-linux-musl-libgfortran5.tar.gz"
 [[MDLovoFit]]
 arch = "x86_64"
-git-tree-sha1 = "8edacaf05fafb30f2d820a8c4b0ce7c6cfb75f2b"
+git-tree-sha1 = "50361edf7c324671a2e4a61fb92d20ad4cad68cb"
 libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[MDLovoFit.download]]
-    sha256 = "7fb34caa372fb1b2ffc52c46bf950a8df7ff9c4fc4ef8062cafba8015052128a"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+    sha256 = "fbeca9c6cf37176b08054fbd75d1a637911abceac2764dd5afd86dbe611719cf"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
 [[MDLovoFit]]
 arch = "x86_64"
-git-tree-sha1 = "433387efb2a9a775f8312b4f991d4cb084bd1e93"
+git-tree-sha1 = "29b77a8fe6e709e170337054f89f53a9daa749e3"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[MDLovoFit.download]]
-    sha256 = "51c4d60b9b5c40296cf3b24bd939444a53ae3359067e66717bb7bbc1bb9b724e"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "f7c5e82ab49723fcfc8b212047bdd399b1a7514aa86155c0537aca6acd134f3e"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[MDLovoFit]]
 arch = "x86_64"
-git-tree-sha1 = "5b3f08d75aeb7b833748c0399225b38c0e7d3281"
+git-tree-sha1 = "ab4aacd24bb820615f848cae4d3275d900585b9a"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[MDLovoFit.download]]
-    sha256 = "cce2cb889f19d20a695db3fd319ba2f47c06cb49e638afae65b4d6e7665a8048"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "22241b0b65d24ae923b6fbeb7f37dd3c09c0d79086928c3f56a42c2bc79aa7e6"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[MDLovoFit]]
 arch = "x86_64"
-git-tree-sha1 = "374d0275228ea716f7525b3f7654b585d6b4774b"
+git-tree-sha1 = "0962d4e443b268aaae35e58daa798d9a7c528ab7"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[MDLovoFit.download]]
-    sha256 = "364322c4e4de2293fe974173a3ad0838e542a8782e4e77be421ceb3536fd53a1"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.x86_64-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "964397187060aa493d693e48febc89cf6890f28f15b1e7ccfb28bc39d3399107"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[MDLovoFit]]
 arch = "x86_64"
-git-tree-sha1 = "d212c7f5e6241bc8fd285257a9f4bde40ca06bd8"
+git-tree-sha1 = "eacd5f48bfbeebdb9e0fb922bd244d6042ef5655"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[MDLovoFit.download]]
-    sha256 = "3a9d1f8127e88a180aaaf8b1c30c5d4777721eb84da428572f56e3f578376f06"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "03a149aa124db6a234b7b338d92ab1f44406db1fb32a4e3f0b76cd3634679a59"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[MDLovoFit]]
 arch = "x86_64"
-git-tree-sha1 = "dbea62e442fb0a1166769b383f29f39622cd6b98"
+git-tree-sha1 = "240515c31edd273928bb71161e5b02930360ab01"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[MDLovoFit.download]]
-    sha256 = "fa495f7a63e2abc87fdf01057948665873536df5131d277c0284d5fa33ef855f"
-    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.0.4+0/MDLovoFit.v20.0.4.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "42b6bb8a05f4cf123659280559ad4f406c162480c4f0e7d888707a86a3a3282a"
+    url = "https://github.com/JuliaBinaryWrappers/MDLovoFit_jll.jl/releases/download/MDLovoFit-v20.1.0+0/MDLovoFit.v20.1.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
